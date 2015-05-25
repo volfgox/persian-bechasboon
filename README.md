@@ -34,3 +34,9 @@ Usage
 			text "درود دنیا".connect_persian_letters
 		end
 	end
+
+TODO
+----
+
+* Using persian fonts which does not contain english characters, like 'B Nazanin', when 'prawn' renders pdf file, english alphabets shown as a box.
+* Using fonts which contain english chararacters, like 'Tahoma', when 'prawn' renders pdf file, because of text direction, english words rendered in right to left direction.
