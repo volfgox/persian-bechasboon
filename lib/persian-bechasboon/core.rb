@@ -78,7 +78,7 @@ module PersianBechasboon
     add("062a", "fe95", "fe96", "fe97", "fe98", true)  # Ta2
     add("062b", "fe99", "fe9a", "fe9b", "fe9c", true)  # Tha2
     add("062c", "fe9d", "fe9e", "fe9f", "fea0", true)  # Jeem
-    add("fb7a", "0868", "fb7b", "fb7c", "fb7d", true)  # che
+    add("0686", "fb7a", "fb7b", "fb7c", "fb7d", true)  # che
     add("062d", "fea1", "fea2", "fea3", "fea4", true)  # 7a2
     add("062e", "fea5", "fea6", "fea7", "fea8", true)  # 7'a2
     add("062f", "fea9", "feaa", "fea9", "feaa", false) # Dal
